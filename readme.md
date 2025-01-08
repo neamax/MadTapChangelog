@@ -163,3 +163,120 @@
     - New giveaway badge for top-ranked players added and populated<br>
     - [to be completed]<br>
 </span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.82</h1>
+    <hr>
+</div>
+<span>
+    - New panel is to be shown once/day this week for Dexscreener Reaction task<br>
+    - New animations and notification style for the new Task button on the main page<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.8</h1>
+    <hr>
+</div>
+<span>
+    - User Interface improvements<br>
+    - New panel for event winners' history on the Rewards page<br>
+    - Pills rendering issue is now fixed<br>
+    - New weekly challenges + new special weekly event added<br>
+    - New buttons added to Main page as Tasks and Challenges shortcuts<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.795</h1>
+    <hr>
+</div>
+<span>
+    - Major Bug Fixes in Tasks logic<br>
+    - New Weekly Challenge Rewarding System<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.79</h1>
+    <hr>
+</div>
+<span>
+    - Telegram API Updated to version 8<br>
+    - Optimised Telegram UI with Settings button & Header & Footer colours<br>
+    - New Tasks added + Announcement Panel<br>
+    - New ATH Rocket Badge added<br>
+    - User’s Tap Background is now visible on leaderboard and gangs pages<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.78</h1>
+    <hr>
+</div>
+<span>
+    - Added two new Badges available to purchase<br>
+    - Implemented Tap Backgrounds logic<br>
+    - Added 5 Tap Background items available to purchase<br>
+    - Enhanced Inventory System<br>
+    - Minor UI Improvements<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.75</h1>
+    <hr>
+</div>
+<span>
+    - Last week event winners were calculated and published on the Rewards page<br>
+    - Main page animations reduced for better performance optimisations<br>
+    - Added new Badge: Royal Sun available to purchase<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.7</h1>
+    <hr>
+</div>
+<span>
+    - Redesigned Special Event on Play page for next event<br>
+    - Implemented Logic of the next Special Event (Catch Beers)<br>
+    - Implemented next Weekly Challenge tasks logic<br>
+    - Introducing TapBot: Auto Coin Collector Power-up<br>
+    - New Weekly Challenge panel design<br>
+    - Fixed minor bugs and UI improvements<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.6</h1>
+    <hr>
+</div>
+<span>
+    - Introducing Badges — visible on the player’s profile picture on TAP, Gangs and Leaders pages<br>
+    - Made a clock validation endpoint to check challenge stats<br>
+    - Inventory panel for purchased/collected badge selection<br>
+    - Updated Sound design, additional sounds for the Spin page<br>
+    - New Task: Comment on X added to the Tasks page<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.55</h1>
+    <hr>
+</div>
+<span>
+    - Improved welcome tutorial animations<br>
+    - Pills Accuracy Challenge modal deadline countdown added<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.52</h1>
+    <hr>
+</div>
+<span>
+    - Minor Performance Enhancements<br>
+    - Fixed: Pills low-end catch was considered as a miss<br>
+    - Fixed: Gangs coins pool will not contain the coins user collected from their referrals<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.5</h1>
+    <hr>
+</div>
+<span>
+    - New Pills gameplay and scoring system<br>
+    - Tracking Pills accuracy and increasing bonus for catches-in-row<br>
+</span>
