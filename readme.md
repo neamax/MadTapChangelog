@@ -1,4 +1,17 @@
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.853</h1>
+    <hr>
+</div>
+<span>
+    - Main Page UI Improvements<br>
+    - Changelogs will now retrieved automatically from server<br>
+    - Performance Enhancements<br>
+    - Fixed: Added new fallback for older Telegram Client Applications<br>
+    - MarketMaker Minigame is on pre-release version<br>
+    - Enhanced player data storage system implemented for faster loading<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.65</h1>
     <hr>
 </div>
