@@ -1,4 +1,15 @@
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.0</h1>
+    <hr>
+</div>
+<span>
+    - Minor Bug Fixes<br>
+    - Fixed: Airdrop text was not showing properly<br>
+    - Last week's winners list was updated<br>
+    - NEW MINIGAME LAUNCHED: MarketMaker<br>
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.853</h1>
     <hr>
 </div>
