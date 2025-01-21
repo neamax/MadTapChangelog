@@ -8,6 +8,9 @@
 <span style="margin-bottom: 1vw;">
     - New item added to the Shop: "Neon" Profile Badge
 </span>
+<span style="margin-bottom: 1vw;">
+    - Improved UI on the Changelog page
+</span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.8.0</h1>
@@ -109,7 +112,7 @@
     - Fixed: Tutorial skip button behind the Telegram native elements
 </span>
 <span style="margin-bottom: 1vw;">
-    - Fixed: Secret Code's reward was not showing coins amount correctly
+    - Fixed: Secret Code's reward was not showing the coins amount correctly
 </span>
 <span style="margin-bottom: 1vw;">
     - Fixed: Total XP earned data in settings was showing current coins, now both are implemented accurately
@@ -118,7 +121,7 @@
     - Pills gameplay improvement
 </span>
 <span style="margin-bottom: 1vw;">
-    - Leaderboard page is now redesigned with the same style as Gangs and Tasks pages
+    - The Leaderboard page is now redesigned with the same style as the Gangs and Tasks pages
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
@@ -138,7 +141,7 @@
         - Level 12 (XP > 50m): MAD Myth
 </span>
 <span style="margin-bottom: 1vw;">
-    - Changelog option added to Settings menu and players can track each version's changes
+    - A changelog option added to the Settings menu and players can track each version's changes
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
@@ -163,7 +166,7 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
-    - Major Performance upgrade
+    - Major Performance Upgrade
 </span>
 <span style="margin-bottom: 1vw;">
     - Challenge-based verifications are now being performed while loading the game
@@ -172,16 +175,16 @@
     - Major UI Improvement
 </span>
 <span style="margin-bottom: 1vw;">
-    - Earn and Gang top design now inherit new blur effect
+    - Earn and Gang's top design now inherits a new blur effect
 </span>
 <span style="margin-bottom: 1vw;">
     - Earn and Gang top images replaced by a faded icon
 </span>
 <span style="margin-bottom: 1vw;">
-    - Tasks cards on Earn page and invited friends cards on Gang page are redesigned to match new blur effect
+    - Tasks cards on the Earn page and invited friends cards on the Gang page are redesigned to match the new blur effect
 </span>
 <span style="margin-bottom: 1vw;">
-    - ‘Christmad’ badge item image reference replaced by a better image
+    - ‘Christmas’ badge item image reference replaced by a better image
 </span>
 <span style="margin-bottom: 1vw;">
     - Two new Badges are added to the Shop and are available to purchase
@@ -190,7 +193,7 @@
     - A new background is added to the Shop and is available to purchase
 </span>
 <span style="margin-bottom: 1vw;">
-    - Slot Machine mini-game has now sound effects, for starters, while spinning and receiving rewards
+    - Slot Machine mini-game now has sound effects, for starters, while spinning and receiving rewards
 </span>
 <span style="margin-bottom: 1vw;">
     - Winning prize confetti effect added to both Slot Machine and Spin Wheel with two types (normal and jackpot)
@@ -210,19 +213,19 @@
     - User Tap Background is now showing as an overlay on the bottom of all pages
 </span>
 <span style="margin-bottom: 1vw;">
-    - A new blurred effect added to Footer menu and will be added as a new interface element to other panels
+    - A new blurred effect has been added to the Footer menu and will be added as a new interface element to other panels
 </span>
 <span style="margin-bottom: 1vw;">
-    - Fixed: Tapping on the Player Level progress bar not opening Player Level info panel
+    - Fixed: Tapping on the Player Level progress bar not opening the Player Level info panel
 </span>
 <span style="margin-bottom: 1vw;">
-    - A new icon added to directly open Player Level info panel
+    - A new icon added to open the Player Level info panel directly
 </span>
 <span style="margin-bottom: 1vw;">
-    - A Santa hat added to the Pills mini-game’s background moon image for Christmas
+    - A Santa hat added to the Pills mini-games background moon image for Christmas
 </span>
 <span style="margin-bottom: 1vw;">
-    - Shop: Buy button is now labeled as ‘Owned’ if the player tries to re-buy an already owned, one-time purchase item
+    - Shop: The buy button is now labelled as ‘Owned’ if the player tries to re-buy an already owned, one-time purchase item
 </span>
 <span style="margin-bottom: 1vw;">
     - Pills timer element design improvements
@@ -239,19 +242,19 @@
     - Huge UI Update with Telegram Fullscreen compatibility
 </span>
 <span style="margin-bottom: 1vw;">
-    - Home page (TAP) redesign regarding fullscreen mode guidelines, player level progress bar is now inside the main page, and player profile picture and name are centered on top, along with native TG close and options buttons
+    - Home page (TAP) redesign regarding fullscreen mode guidelines, the player level progress bar is now inside the main page, and the player profile picture and name are centred on top, along with native TG close and options buttons
 </span>
 <span style="margin-bottom: 1vw;">
-    - Game Settings button is an icon now, next to a new Inventory icon placed on its left side
+    - The game Settings button is an icon now, next to a new Inventory icon placed on its left side
 </span>
 <span style="margin-bottom: 1vw;">
-    - Tasks, Gangs, Leaderboard, Casino, and Play pages are all redesigned to fit full screen mode; elements are moved in some pages, while on other ones matching padding from top added to top elements
+    - Tasks, Gangs, Leaderboard, Casino, and Play pages are all redesigned to fit full-screen mode; elements are moved in some pages, while on other ones matching padding from the top is added to top elements
 </span>
 <span style="margin-bottom: 1vw;">
     - Pills in-game score and timer area redesigned to prevent overlapping with close and options buttons
 </span>
 <span style="margin-bottom: 1vw;">
-    - Top leaders cards and content area redesigned; the gold leader's card is now centered, with 2nd and 3rd places having smaller card scales
+    - Top leaders cards and content area redesigned; the gold leader's card is now centred, with 2nd and 3rd places having smaller card scales
 </span>
 <span style="margin-bottom: 1vw;">
     - Minor bugs fixed; also, other few ones identified and listed for fixing in the next update
@@ -289,7 +292,7 @@
     - The task verification system is now solid and more accurate; the cooldown time after starting each task is 15 seconds, and the task will be verified, and coins are added to user assets after 30 minutes
 </span>
 <span style="margin-bottom: 1vw;">
-    - Minor UI Tweaks on Tasks page, specifically on task elements
+    - Minor UI Tweaks on the Tasks page, specifically on task elements
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
@@ -300,7 +303,7 @@
     - Leaderboards page redesigned
 </span>
 <span style="margin-bottom: 1vw;">
-    - New week’s challenges and special event pushed and started
+    - New week’s challenges and special events pushed and started
 </span>
 <span style="margin-bottom: 1vw;">
     - New Tasks added to the game
@@ -331,7 +334,7 @@
     - Next week’s Special Event & combo Challenges logic designed
 </span>
 <span style="margin-bottom: 1vw;">
-    - Fixed ‘Energy Surge’ issue on some devices
+    - Fixed the ‘Energy Surge’ issue on some devices
 </span>
 <span style="margin-bottom: 1vw;">
     - Christmas Giveaway: New Badge published
@@ -357,10 +360,10 @@
     - Huge performance upgrade
 </span>
 <span style="margin-bottom: 1vw;">
-    - Pills data now being collected with the highest possible accuracy
+    - Pills data are now being collected with the highest possible accuracy
 </span>
 <span style="margin-bottom: 1vw;">
-    - Critical gameplay-related bug fixed on Gangs page
+    - Critical gameplay-related bug fixed on the Gangs page
 </span>
 <span style="margin-bottom: 1vw;">
     - Casino page (former Spin) completely redesigned with a new look
@@ -383,7 +386,7 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
-    - New panel is to be shown once/day this week for Dexscreener Reaction task
+    - A new panel is to be shown once/day this week for the Dexscreener Reaction task
 </span>
 <span style="margin-bottom: 1vw;">
     - New animations and notification style for the new Task button on the main page
@@ -437,7 +440,7 @@
     - New ATH Rocket Badge added
 </span>
 <span style="margin-bottom: 1vw;">
-    - User’s Tap Background is now visible on leaderboard and gangs pages
+    - User’s Tap Background is now visible on the Leaderboard and Gangs pages
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
@@ -536,7 +539,7 @@
     - Minor Performance Enhancements
 </span>
 <span style="margin-bottom: 1vw;">
-    - Fixed: Pills minigame low-end catch was considered as a miss
+    - Fixed: the Pills minigame low-end catch was considered as a miss
 </span>
 <span style="margin-bottom: 1vw;">
     - Fixed: Gangs coins pool will not contain the coins that user collected from their referrals
