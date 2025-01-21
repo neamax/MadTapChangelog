@@ -1,4 +1,15 @@
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.11</h1>
+    <hr>
+</div>
+<span style="margin-bottom: 1vw;">
+    - New Feature added: Tap & Hold on the main TAP Button to preview the current Background
+</span>
+<span style="margin-bottom: 1vw;">
+    - New item added to the Shop: "Neon" Profile Badge
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.1</h1>
     <hr>
 </div>
