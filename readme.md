@@ -8,6 +8,9 @@
 <span>
     - Fixed: Tap Button not displaying properly for some iPhone devices Tap Button not displaying properly for some iPhone devices Tap Button not displaying properly for some iPhone devices
 </span>
+<span>
+    - Fixed: Tap Button not displaying properly for some iPhone devices Tap Button not displaying properly for some iPhone devices Tap Button not displaying properly for some iPhone devices
+</span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.0</h1>
