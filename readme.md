@@ -1,5 +1,5 @@
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.11</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.8.11</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -10,7 +10,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.1</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.8.0</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -33,7 +33,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.0</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.9</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -50,7 +50,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.853</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.8</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -73,7 +73,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.65</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.4</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -99,7 +99,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.62</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.3</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -122,7 +122,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.55</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.2</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -142,7 +142,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.5</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.1</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -159,7 +159,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.4</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.7.0</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -203,7 +203,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.3</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.7</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -232,7 +232,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.2</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.6</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -258,7 +258,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.1</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.6.5</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -310,7 +310,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.5.11</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.5.0</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -321,7 +321,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.5.1</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.4.1</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -347,7 +347,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.5.0</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.4.0</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -379,7 +379,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.82</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.3.1</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -390,7 +390,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.8</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.3.0</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -410,7 +410,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.795</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.95</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -421,7 +421,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.79</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.92</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -441,7 +441,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.78</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.9</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
@@ -461,7 +461,7 @@
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
-    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.75</h1>
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.2.8</h1>
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
