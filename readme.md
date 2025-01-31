@@ -5,6 +5,9 @@
 <span style="margin-bottom: 1vw;">
     - Pills Highscore Holders' Background & Badges are now visible on the Playground page
 </span>
+<span style="margin-bottom: 1vw;">
+    - Player Background removed from the bottom and added as a Top-Bar image behind user profile picture
+</span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.8.14</h1>
