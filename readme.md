@@ -3,7 +3,16 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
+    - PFP Maker Minigame Published
+</span>
+<span style="margin-bottom: 1vw;">
     - Minor Bug Fixes
+</span>
+<span style="margin-bottom: 1vw;">
+    - Performance Improvements
+</span>
+<span style="margin-bottom: 1vw;">
+    - All-Winners Lists from all events are now updated on the Earn page
 </span>
 <span style="margin-bottom: 1vw;">
     - Pills Highscore Holders' Background & Badges are now visible on the Playground page
