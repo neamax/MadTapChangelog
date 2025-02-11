@@ -1,4 +1,12 @@
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
+    <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.9.4</h1>
+    <hr>
+</div>
+<span style="margin-bottom: 1vw;">
+    - Fixed: PFP Maker loading issues
+</span>
+
+<div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.9.0</h1>
     <hr>
 </div>
