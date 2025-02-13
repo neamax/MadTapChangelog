@@ -3,7 +3,7 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
-    - UI Improvements
+    - UI/UX Improvements
 </span>
 <span style="margin-bottom: 1vw;">
     - MarketMaker daily limitations implemented with a max. 1000 Keys playable per day
