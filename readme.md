@@ -3,6 +3,15 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
+    - UI Improvements
+</span>
+<span style="margin-bottom: 1vw;">
+    - MarketMaker daily limitations implemented with a max. 1000 Keys playable per day
+</span>
+<span style="margin-bottom: 1vw;">
+    - Daily Checkin & Inventory panels updated
+</span>
+<span style="margin-bottom: 1vw;">
     - Fixed: PFP Maker loading issues
 </span>
 
