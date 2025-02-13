@@ -3,7 +3,7 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
-    - UI Improved, Haptic feedback modified
+    - UI Improvements, Haptic feedback updated
 </span>
 <span style="margin-bottom: 1vw;">
     - MarketMaker daily limitations implemented with a max. 1000 Keys playable per day
