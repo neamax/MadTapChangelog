@@ -14,6 +14,12 @@
 <span style="margin-bottom: 1vw;">
     - Fixed: PFP Maker loading issues
 </span>
+<span style="margin-bottom: 1vw;">
+    - Fixed: Players with no (or hidden) profile image had broken image on the profile picture placeholder will now see a random MAD PFP
+</span>
+<span style="margin-bottom: 1vw;">
+    - Set PFP as Profile: You can now use the PFPs you created (on the PFP Maker minigame) as your in-game profile picture. It will be used in the Gangs and Leaderboards (main Leaders page or other global record holders like in Playground). This only affects your MadTap profile picture so your main Telegram account's profile picture remains the same.
+</span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.9.0</h1>
