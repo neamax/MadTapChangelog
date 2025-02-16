@@ -15,11 +15,15 @@
     - Daily Checkin & Inventory panels updated
 </span>
 <span style="margin-bottom: 1vw;">
-    - Fixed: PFP Maker loading issues
     - Fixed: Players with no (or hidden) profile image had broken image on the profile picture placeholder will now see a random MAD PFP
 </span>
 <span style="margin-bottom: 1vw;">
+    - Fixed: PFP Maker loading issues
+</span>
+<span style="margin-bottom: 1vw;">
     - Updated: Pills local records will not get reset every week anymore!<br>
+</span>
+<span style="margin-bottom: 1vw;">
     - Player Badges and Backgrounds are now visible on the Playground and Gangs pages.
 </span>
 
