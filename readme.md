@@ -9,19 +9,18 @@
     - MarketMaker daily limitations implemented with a max. 1000 Keys playable per day
 </span>
 <span style="margin-bottom: 1vw;">
+    - Set PFP as Profile: You can now use the PFPs you created (on the PFP Maker minigame) as your in-game profile picture. It will be used in the Gangs and Leaderboards (main Leaders page or other global record holders like in Playground). This only affects your MadTap profile picture so your main Telegram account's profile picture remains the same.
+</span>
+<span style="margin-bottom: 1vw;">
     - Daily Checkin & Inventory panels updated
 </span>
 <span style="margin-bottom: 1vw;">
     - Fixed: PFP Maker loading issues
-</span>
-<span style="margin-bottom: 1vw;">
     - Fixed: Players with no (or hidden) profile image had broken image on the profile picture placeholder will now see a random MAD PFP
 </span>
 <span style="margin-bottom: 1vw;">
-    - Updated: Pills local records will not get reset every week anymore!
-</span>
-<span style="margin-bottom: 1vw;">
-    - Set PFP as Profile: You can now use the PFPs you created (on the PFP Maker minigame) as your in-game profile picture. It will be used in the Gangs and Leaderboards (main Leaders page or other global record holders like in Playground). This only affects your MadTap profile picture so your main Telegram account's profile picture remains the same.
+    - Updated: Pills local records will not get reset every week anymore!<br>
+    - Player Badges and Backgrounds are now visible on the Playground and Gangs pages.
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
