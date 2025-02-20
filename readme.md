@@ -210,7 +210,7 @@
         - Level 12 (XP > 50m): MAD Myth
 </span>
 <span style="margin-bottom: 1vw;">
-    - A changelog option added to the Settings menu and players can track each version's changes
+    - A changelog option has been added to the Settings menu and players can track each version's changes
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
