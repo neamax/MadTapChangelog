@@ -11,6 +11,9 @@
 <span style="margin-bottom: 1vw;">
     - New Loading Screen Design
 </span>
+<span style="margin-bottom: 1vw;">
+    - Minigames (Pills & Run) Start Panel
+</span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.9.5</h1>
