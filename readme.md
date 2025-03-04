@@ -3,6 +3,12 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
+    - Major UI Improvements, Brought MAD's unique font family into the game design
+</span>
+<span style="margin-bottom: 1vw;">
+    - Major Performance Improvements
+</span>
+<span style="margin-bottom: 1vw;">
     - New Loading Screen Design
 </span>
 
