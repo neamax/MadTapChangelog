@@ -20,6 +20,9 @@
 <span style="margin-bottom: 1vw;">
     - Weekly Special Event now has a dedicated page with full details
 </span>
+<span style="margin-bottom: 1vw;">
+    - New XP Level added for players with XP points higher than 100m: MAD Zeus. More rewards for Secret Points, more Energy limit, and more!
+</span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.9.5</h1>
