@@ -3,6 +3,9 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
+    - New minigame published: MAD Run!
+</span>
+<span style="margin-bottom: 1vw;">
     - Major UI Improvements, Brought MAD's unique font family into the game design
 </span>
 <span style="margin-bottom: 1vw;">
@@ -13,6 +16,9 @@
 </span>
 <span style="margin-bottom: 1vw;">
     - Minigames (Pills & Run) Start Panel
+</span>
+<span style="margin-bottom: 1vw;">
+    - Weekly Special Event now has a dedicated page with full details
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
