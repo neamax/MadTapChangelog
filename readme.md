@@ -3,7 +3,7 @@
     <hr>
 </div>
 <span style="margin-bottom: 1vw;">
-    - New minigame published: MAD Run!
+    - New minigame published: MAD Drive!
 </span>
 <span style="margin-bottom: 1vw;">
     - Major UI Improvements, Brought MAD's unique font family into the game design
