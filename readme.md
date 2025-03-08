@@ -21,10 +21,13 @@
     - Weekly Special Event now has a dedicated page with full details
 </span>
 <span style="margin-bottom: 1vw;">
-    - New XP Level added for players with XP points higher than 100m: MAD Zeus. More rewards for Secret Points, more Energy limit, and more!
+    - A new XP Level was added for players with XP points higher than 100m: MAD Zeus. More rewards for Secret Points, more Energy limit, and more!
 </span>
 <span style="margin-bottom: 1vw;">
     - Invite button on the Gangs page now opens Telegram's Share Message native panel
+</span>
+<span style="margin-bottom: 1vw;">
+    - Minigames (Pills & Run) have now two separate highscores: All-time and Weekly. Each minigame's leaderboards (in pre-play panels) are based on weekly highscores and keep resetting at the start of the week, while player's all-time highscore remains in their database.
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
