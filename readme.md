@@ -27,7 +27,7 @@
     - Invite button on the Gangs page now opens Telegram's Share Message native panel
 </span>
 <span style="margin-bottom: 1vw;">
-    - Minigames (Pills & Run) have now two separate highscores: All-time and Weekly. Each minigame's leaderboards (in pre-play panels) are based on weekly highscores and keep resetting at the start of the week, while player's all-time highscore remains in their database.
+    - Minigames (Pills & Run) have now two separate highscores: All-time and Weekly. Each minigame's leaderboards (in pre-play panels) are based on weekly highscores and reset at the start of the week, while players' all-time highscore remains in their database.
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
