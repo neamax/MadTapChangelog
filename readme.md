@@ -29,6 +29,9 @@
 <span style="margin-bottom: 1vw;">
     - Minigames (Pills & Run) have now two separate highscores: All-time and Weekly. Each minigame's leaderboards (in pre-play panels) are based on weekly highscores and reset at the start of the week, while players' all-time highscore remains in their database.
 </span>
+<span style="margin-bottom: 1vw;">
+    - Two new Profile Badges and Two new Backgrounds added to the Shop
+</span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
     <h1><i class="fa-solid fa-code-commit" style="margin-right: 5px;"></i>Version 1.9.5</h1>
