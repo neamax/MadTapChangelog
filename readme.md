@@ -15,7 +15,7 @@
     - New Loading Screen Design
 </span>
 <span style="margin-bottom: 1vw;">
-    - Minigames (Pills & Run) Start Panel
+    - Minigames (Pills & Drive) Start Panel
 </span>
 <span style="margin-bottom: 1vw;">
     - Weekly Special Event now has a dedicated page with full details
@@ -27,10 +27,16 @@
     - Invite button on the Gangs page now opens Telegram's Share Message native panel
 </span>
 <span style="margin-bottom: 1vw;">
-    - Minigames (Pills & Run) have now two separate highscores: All-time and Weekly. Each minigame's leaderboards (in pre-play panels) are based on weekly highscores and reset at the start of the week, while players' all-time highscore remains in their database.
+    - Minigames (Pills & Drive) have now two separate highscores: All-time and Weekly. Each minigame's leaderboards (in pre-play panels) are based on weekly highscores and reset at the start of the week, while players' all-time highscore remains in their database.
 </span>
 <span style="margin-bottom: 1vw;">
     - Two new Profile Badges and Two new Backgrounds added to the Shop
+</span>
+<span style="margin-bottom: 1vw;">
+    - Hardware Acceleration (GPU Rendering) Enabled for improved performance experience
+</span>
+<span style="margin-bottom: 1vw;">
+    - Minigames (Pills & Drive) are now running in WebGL Mode
 </span>
 
 <div class="horizontal-title" style="margin-top: 1vh; margin-bottom: 0;">
